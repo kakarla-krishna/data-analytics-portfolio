@@ -1,4 +1,4 @@
-# 📊 Krishna Vamsi – Data Analytics Portfolio
+#  Krishna Vamsi – Data Analytics Portfolio
 
 Hi, I’m **Krishna Vamsi Kakarla** 👋  
 Aspiring **Data Analyst** with experience in **Java Backend Development** and currently transitioning into **Data Science and Analytics**.  
@@ -6,7 +6,7 @@ This portfolio highlights my projects in **Data Cleaning, Preprocessing, Explora
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 1. File Handling using Python
 *	Built a system to read, clean, update, and save product data across multiple formats.
@@ -30,7 +30,7 @@ This portfolio highlights my projects in **Data Cleaning, Preprocessing, Explora
 
 ---
 
-## 🛠️ Skills
+##  Skills
 •	Programming Languages: Python, Java, MySQL.
 •	Data Analytics: Pandas, NumPy, Matplotlib, Seaborn.
 •	Databases: MySQL
