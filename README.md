@@ -1,6 +1,6 @@
 #  Krishna Vamsi – Data Analytics Portfolio
 
-Hi, I’m **Krishna Vamsi Kakarla** 👋  
+Hi, I’m **Krishna Vamsi Kakarla**  
 Aspiring **Data Analyst** with experience in **Java Backend Development** and currently transitioning into **Data Science and Analytics**.  
 This portfolio highlights my projects in **Data Cleaning, Preprocessing, Exploratory Data Analysis (EDA), and Visualization**.  
 
@@ -42,7 +42,7 @@ This portfolio highlights my projects in **Data Cleaning, Preprocessing, Explora
 
 ---
 
-## 📫 Contact
+##  Contact
 - **Email:** [krishnakakarla29@gmail.com]  
 - **LinkedIn:** [your LinkedIn profile]  
 - **GitHub:** [https://github.com/kakarla-krishna]
